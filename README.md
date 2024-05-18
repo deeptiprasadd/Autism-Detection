@@ -5,7 +5,7 @@ Children with autism benefit from play therapy and game-based interventions beca
 
 ## Dataset
 Used a [dataset](https://archive.ics.uci.edu/dataset/426/autism+screening+adult)
-### About dataset:
+-About dataset:
 Feature Type-Integer
 Instances-704
 Features-20
